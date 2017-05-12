@@ -1,6 +1,6 @@
 # PPRows for Mac
 
-![](https://img.shields.io/badge/platform-macOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg)  ![](https://img.shields.io/badge/version-1.2.1-blue.svg) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)  [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/5743737098/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+![](https://img.shields.io/badge/platform-macOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg)  ![](https://img.shields.io/badge/version-1.2.1-blue.svg) ![](https://img.shields.io/badge/license-GPLv3.0-brightgreen.svg)  [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/5743737098/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 ![APPIcon](https://github.com/jkpang/PPRows/blob/master/source/AppIcon.png)
 
@@ -37,6 +37,13 @@ Drag file/folder to the PPRows APP window.
 ## Thanks 致谢
 [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) -- This is the TinyPNG image compression site Mac client , Let me know how to use the APPKit framework . 这是TinyPNG 图片压缩网站的Mac客户端 , 让我知道了如何使用APPKit框架
 
+## Explaination 说明
+
+##### After PPRows opening source, it is unfortunately be copied by someone else , and charged to the App Store( https://itunes.apple.com/cn/app/lines-of-code/id1218789683?mt=12 ). Now, I need to explain it solemnly :
+The original intention Of PPRows open source is that I want to have the communication with the iOS / macOS developers. The code can be used free of charge, but  it never  be allowed to replace the UI and publish to the App Store having the charges.It is a low-quality behavior.😡😡😡👎👎👎
+##### 在PPRows开源后很不幸被别人copy,并收费上架到了App Store( https://itunes.apple.com/cn/app/lines-of-code/id1218789683?mt=12 ), 现在郑重说明一下:
+PPRows开源的初衷是为了和iOS/macOS开发者相互交流技术,其代码可以免费使用,但绝不允许有更换UI上架App Store收费的低素质的垃圾行为😡😡😡👎👎👎.
+
 ## Update Log  更新日志
 ### Version 1.2.0   2017.03.20
 Filter out the blank lines in the code line, the calculation is more accurate <-> 过滤掉代码行中的空行,计算更精确
@@ -53,5 +60,5 @@ PPRows initialize <-> PPRows初始化
 ![PP-iOS学习交流群群二维码](https://github.com/jkpang/PPCounter/blob/master/PP-iOS%E5%AD%A6%E4%B9%A0%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ## License 许可证
-PPRows 使用 MIT 许可证，详情见 LICENSE 文件。
+PPRows 使用 GPL-3.0 许可证，详情见 LICENSE 文件。
 
